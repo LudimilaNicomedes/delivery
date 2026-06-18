@@ -6,13 +6,13 @@ Este projeto está sendo desenvolvido enquanto estudo conceitos de desenvolvimen
 
 O objetivo não é apenas criar uma API funcional, mas também compreender na prática conceitos como:
 
-APIs REST
-Rotas
-CRUD
-Integração com banco de dados
-Organização de projetos backend
-Modelagem de dados
-Sobre o Projeto
+- APIs REST
+- Rotas
+- CRUD
+- Integração com banco de dados
+- Organização de projetos backend
+- Modelagem de dados
+- Sobre o Projeto
 
 A proposta é desenvolver uma API para um sistema de delivery, permitindo o gerenciamento de:
 
@@ -21,12 +21,12 @@ Endereços
 Produtos
 Pedidos
 
-Tecnologias Utilizadas
-Python
-FastAPI
-SQL Server
-PyODBC
-Pydantic
+|Tecnologias Utilizadas|
+|Python                |
+|FastAPI               |
+|SQL Server            |
+|PyODBC                |
+|Pydantic              |
 
 
 O que já foi desenvolvido
