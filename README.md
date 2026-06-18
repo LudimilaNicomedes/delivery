@@ -4,22 +4,14 @@ Em desenvolvimento
 
 Este projeto está sendo desenvolvido enquanto estudo conceitos de desenvolvimento backend com Python, FastAPI e SQL Server.
 
-O objetivo não é apenas criar uma API funcional, mas também compreender na prática conceitos como:
+| Módulo | Descrição |
+|---------|---------|
+| Usuários | Cadastro e gerenciamento de usuários |
+| Endereços | Cadastro de endereços de entrega |
+| Produtos | Cadastro e consulta de produtos |
+| Pedidos | Criação e acompanhamento de pedidos |
 
-- APIs REST
-- Rotas
-- CRUD
-- Integração com banco de dados
-- Organização de projetos backend
-- Modelagem de dados
-- Sobre o Projeto
 
-## A proposta é desenvolver uma API para um sistema de delivery, permitindo o gerenciamento de:
-
-Usuários
-Endereços
-Produtos
-Pedidos
 
 ## 🛠️ Tecnologias Utilizadas
 Python                
