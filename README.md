@@ -14,19 +14,19 @@ O objetivo não é apenas criar uma API funcional, mas também compreender na pr
 - Modelagem de dados
 - Sobre o Projeto
 
-A proposta é desenvolver uma API para um sistema de delivery, permitindo o gerenciamento de:
+## A proposta é desenvolver uma API para um sistema de delivery, permitindo o gerenciamento de:
 
 Usuários
 Endereços
 Produtos
 Pedidos
 
-|Tecnologias Utilizadas|
-|Python                |
-|FastAPI               |
-|SQL Server            |
-|PyODBC                |
-|Pydantic              |
+## 🛠️ Tecnologias Utilizadas
+Python                
+FastAPI               
+SQL Server            
+PyODBC                
+Pydantic              
 
 
 O que já foi desenvolvido
@@ -37,7 +37,7 @@ Conexão com SQL Server
 Início da implementação dos endpoints
 
 
-Próximos Passos
+## 📚 Próximos Passos
 Implementar CRUD de usuários
 Implementar CRUD de produtos
 Implementar CRUD de pedidos
